@@ -1,6 +1,6 @@
 # Final_Project_cs167# Project A: Crime Data Analysis
 
-##Group Information
+## Group Information
 
 Group Name: Crime Analysis
 
@@ -23,7 +23,7 @@ Lauren - Task 2
 Kasey - Task 3
 Luis - Task 4
 
-##Introduction
+## Introduction
 This project analyzes crime patterns in Chicago using big data techniques. The goal is to preprocess large-scale crime data, conduct spatial and temporal analysis, and develop predictive models. Using Apache Spark and Beast, we will efficiently process datasets and visualize crime trends.
 Each team member is responsible for a specific task: data preparation (Yunfan), spatial analysis (Lauren), temporal analysis (Kasey), and spatio-temporal analysis (Luis). Our approach involves preprocessing data into an optimized Parquet format, performing SQL-based aggregations, and generating visual insights through QGIS and Python. By leveraging big data tools, we aim to uncover trends and improve crime data accessibility.
 
