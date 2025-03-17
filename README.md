@@ -1,11 +1,14 @@
 # Final_Project_cs167# Project A: Crime Data Analysis
 
 ##Group Information
+
 Group Name: Crime Analysis
+
 Group Section: 
 Section-21-6
 
 Team Members: 
+
 lgall045@ucr.edu Lauren
 
 lgari012@ucr.edu - Luis
