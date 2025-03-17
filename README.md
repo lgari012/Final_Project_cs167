@@ -7,8 +7,11 @@ Section-21-6
 
 Team Members: 
 lgall045@ucr.edu Lauren
+
 lgari012@ucr.edu - Luis
+
 kdoan024@ucr.edu - Kasey
+
 yli971@ucr.edu - Yunfan
 
 Tasks Distribution:
